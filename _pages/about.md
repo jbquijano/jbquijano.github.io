@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kumusta? I'm JB, a Master's student at the University of the Philippines, [Marine Science Institute](https://msi.upd.edu.ph/). I'm mostly interested in studying anything ecology but I'm now focused on understanding marine holobionts and the interactions among its members. I love playing around with ecological data (and teaching how to have fun working around them).
+Kumusta (a greeting in Filipino)? I'm JB, a Master's student at the University of the Philippines, [Marine Science Institute](https://msi.upd.edu.ph/). I'm mostly interested in studying anything ecology but I'm now focused on understanding marine holobionts and the interactions among its members. I love playing around with ecological data (and teaching how to have fun working around them).
 
 My work and research
 ------
