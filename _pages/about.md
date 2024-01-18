@@ -16,4 +16,4 @@ I work on marine organisms that are partnered with microbes that use light to pr
 
 My background and history
 ------
-I received my B.Sc. from the [University of the Philippines, Baguio](https://www.upb.edu.ph/) and I'm currently wrapping up (hopefully) my Master's at the [University of the Philippines, Marine Science Institute](https://msi.upd.edu.ph/). I am also student researcher in the [Marine Molecular Biology Laboratory](https://cconaco.wixsite.com/mmbl) working on how to make hard corals hardier under the warming ocean conditions.
+I received my B.Sc. from the [University of the Philippines, Baguio](https://www.upb.edu.ph/) and I'm currently wrapping up (hopefully) my Master's at the [University of the Philippines, Marine Science Institute](https://msi.upd.edu.ph/). I am also student researcher in the [Marine Molecular Biology Laboratory](https://cconaco.wixsite.com/mmbl), working on how to make hard corals hardier under the warming ocean conditions.
