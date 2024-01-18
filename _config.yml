@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Studying marine holobionts \n Doing Master's in "https://msi.upd.edu.ph/""
+  bio              : "Studying marine holobionts. Doing Master's in 'https://msi.upd.edu.ph/'"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
