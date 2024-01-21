@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Diversity of Marine Eukaryotic Picophytoplankton Communities with Emphasis on Mamiellophyceae in Northwestern Philippines"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt:
+date: 2021-02-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://philjournalsci.dost.gov.ph/publication/regular-issues/past-issues/102-vol-150-no-1-february-2021/1287-diversity-of-marine-eukaryotic-picophytoplankton-communities-with-emphasis-on-mamiellophyceae-in-northwestern-philippines'
+citation: 'Dela Peña, L. B. R. O., Tejada, A. J. P., Quijano, J. B., Alonzo, K. H., Gernato, E. G., Caril, A., ... & Onda, D. F. L. (2021). &quot;Diversity of Marine Eukaryotic Picophytoplankton Communities with Emphasis on Mamiellophyceae in Northwestern Philippines.&quot; <i>Philipp. J. Sci, 150</i>. 27-42.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/diversity_of_marine_eukaryotic_picophytoplankton_communities_.pdf)
