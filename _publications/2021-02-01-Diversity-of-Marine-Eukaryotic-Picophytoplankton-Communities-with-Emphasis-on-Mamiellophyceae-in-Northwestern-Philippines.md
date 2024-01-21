@@ -1,7 +1,7 @@
 ---
 title: "Diversity of Marine Eukaryotic Picophytoplankton Communities with Emphasis on Mamiellophyceae in Northwestern Philippines"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-02-01-Diversity-of-Marine-Eukaryotic-Picophytoplankton-Communities-with-Emphasis-on-Mamiellophyceae-in-Northwestern-Philippines
 excerpt:
 date: 2021-02-01
 venue: 'Philippine Journal Science'
