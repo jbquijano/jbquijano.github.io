@@ -12,7 +12,7 @@ Kumusta (a greeting in Filipino)? I'm JB, a recent Master of Science graduate fr
 
 My work and research
 ------
-Currently, I work on marine organisms that are partnered with microbes that use light to produce food (photosymbionts). I delve on the composition of these photosymbionts, Symbiodiniaceae, and how they affect fitness of a holobiont. I also bacteria to better understand how microbiomes contribute to adaptation under fast changing climatic conditions. Beyond these, I work on topics including microalgal cultures (Symbiodiniaceae) and community ecology of environmental microbes.
+Currently, I work on marine organisms that are partnered with microbes that use light to produce food (photosymbionts). I delve on the composition of these photosymbionts, the dinoflagellate family Symbiodiniaceae, and how they affect fitness of a holobiont. I also study bacteria to further comprehend how microbiomes contribute to adaptation under fast changing climatic conditions. Beyond these, I work on topics including microalgal cultures (Symbiodiniaceae) and community ecology of environmental microbes.
 
 My background and history
 ------
